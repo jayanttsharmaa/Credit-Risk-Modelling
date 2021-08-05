@@ -1,5 +1,5 @@
 # Credit-Risk-Modeling
-We are building ML model which can help us in order get an idea, whether a person will be doing any default activity for his loan in next 2 year.
+We are building ML model which can help us in order get an idea, whether a person will be doing any default activity or not.
 
 # Dependency Libraries
 - pandas
