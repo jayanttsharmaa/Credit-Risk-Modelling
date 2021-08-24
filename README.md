@@ -19,4 +19,4 @@ We are building ML model which can help us in order get an idea, whether a perso
 - Decision Tree
 - Random Forest
 - XG Boost
-- Selecting Performance Matrics
+
